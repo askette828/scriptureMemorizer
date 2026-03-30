@@ -1,0 +1,14 @@
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\bin\Debug\net10.0-windows\TextMemorizer.exe
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\bin\Debug\net10.0-windows\TextMemorizer.deps.json
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\bin\Debug\net10.0-windows\TextMemorizer.runtimeconfig.json
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\bin\Debug\net10.0-windows\TextMemorizer.dll
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\bin\Debug\net10.0-windows\TextMemorizer.pdb
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.AssemblyInfoInputs.cache
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.AssemblyInfo.cs
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.dll
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\refint\TextMemorizer.dll
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.pdb
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\TextMemorizer.genruntimeconfig.cache
+C:\Users\amanr\OneDrive\Desktop\memorizer\TextMemorizer\obj\Debug\net10.0-windows\ref\TextMemorizer.dll
