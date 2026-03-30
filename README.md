@@ -1,1 +1,1 @@
-Scripture Memorizer is a desktop application built with C# and Windows Forms that helps users memorize text by gradually hiding words and letters. The app increases difficulty step by step, making it easier to learn and retain passages over time.
+Scripture Memorizer is a desktop application built with C# and Windows Forms that helps users memorize scriptures by gradually hiding words and letters
